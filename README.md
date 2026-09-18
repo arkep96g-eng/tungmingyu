@@ -43,7 +43,16 @@ git push -u origin main
 GitHub → repo → **Settings → Pages → Source: Deploy from a branch → main / (root)**。
 網址會是 `https://<username>.github.io/` 或 `https://<username>.github.io/<repo>/`。
 
-要綁自訂網域：在 repo 根目錄放一個 `CNAME` 檔（內容只有網域），DNS 加 CNAME 指到 `<username>.github.io`。
+## 自訂網域（已設定：patents.aurorixa.com）
+
+- repo 根目錄的 `CNAME` 檔內容是 `patents.aurorixa.com`——**不要刪**，GitHub 靠它記住網域設定。
+- DNS（aurorixa.com 的管理面板）：`CNAME  patents  →  arkep96g-eng.github.io`
+- GitHub → Settings → Pages → Custom domain 填 `patents.aurorixa.com` → DNS check 通過後勾 Enforce HTTPS。
+- 換網域時同步改 `data/site.json` 的 `base_url`，並重跑 `python make_og.py` 更新預覽圖上的網址。
+
+## 預覽圖
+
+`python make_og.py` 產生 `assets/og.png`（1200×630，LinkedIn / X 分享卡片）。數字從 data/*.json 計算，改資料後重跑。
 
 ## 發布前填入
 
