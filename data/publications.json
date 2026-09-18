@@ -1,0 +1,158 @@
+{
+  "_note": "Author lists and venues from the CV summary; DOIs and citation counts from Crossref (2026-09-17). `me` is the 1-based author position of Tung-Ming Yu.",
+  "journal": [
+    {
+      "id": "snb-2013",
+      "year": 2013,
+      "title": "Integration of organic opto-electrowetting and poly(ethylene) glycol diacrylate (PEGDA) microfluidics for droplets manipulation",
+      "authors": ["Tung-Ming Yu", "Shih-Mo Yang", "Chien-Yu Fu", "Ming-Huei Liu", "Long Hsu", "Hwan-You Chang", "Cheng-Hsien Liu"],
+      "me": 1,
+      "venue": "Sensors and Actuators B: Chemical",
+      "cite": "180, 35–42",
+      "doi": "10.1016/j.snb.2011.12.059",
+      "citations": 22,
+      "summary_en": "Combines organic opto-electrowetting with PEGDA microfluidics so droplets can be moved by patterned light inside a moulded channel.",
+      "summary_zh": "將有機光電濕潤與 PEGDA 微流道整合，以光圖案在成型流道內操控液滴。",
+      "related_patents": ["microfluidic-chip"]
+    },
+    {
+      "id": "apl-2011",
+      "year": 2011,
+      "title": "Light-driven manipulation of picobubbles on a titanium oxide phthalocyanine-based optoelectronic chip",
+      "authors": ["Shih-Mo Yang", "Tung-Ming Yu", "Hang-Ping Huang", "Meng-Yen Ku", "Sheng-Yang Tseng", "Che-Liang Tsai", "Hung-Po Chen", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 2,
+      "venue": "Applied Physics Letters",
+      "cite": "98, 153512",
+      "doi": "10.1063/1.3580760",
+      "citations": 25,
+      "summary_en": "Projected light on a TiOPc photoconductor generates and steers picolitre bubbles on the chip surface.",
+      "summary_zh": "以投影光在 TiOPc 光導層上產生並驅動皮升級氣泡。"
+    },
+    {
+      "id": "tmag-2011",
+      "year": 2011,
+      "title": "Concentration of magnetic beads utilizing light-induced electro-osmosis flow",
+      "authors": ["Shih-Mo Yang", "Punde Tushar Harishchandra", "Tung-Ming Yu", "Ming-Huei Liu", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 3,
+      "venue": "IEEE Transactions on Magnetics",
+      "cite": "47(10)",
+      "doi": "10.1109/tmag.2011.2158194",
+      "citations": 9,
+      "summary_en": "Light-induced electro-osmotic flow concentrates magnetic beads with no moving parts.",
+      "summary_zh": "利用光誘導電滲流濃縮磁珠，無需機械元件。",
+      "related_patents": ["magnetic-bead"]
+    },
+    {
+      "id": "aoe-2011",
+      "year": 2011,
+      "title": "Moldless PEGDA-based optoelectrofluidic platform for microparticle selection",
+      "authors": ["Shih-Mo Yang", "Tung-Ming Yu", "Ming-Huei Liu", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 2,
+      "venue": "Advances in OptoElectronics",
+      "cite": "2011, 394683",
+      "doi": "10.1155/2011/394683",
+      "citations": 6,
+      "summary_en": "Photo-patterned PEGDA structures replace moulds, so an optoelectrofluidic particle-sorting chip can be prototyped in minutes.",
+      "summary_zh": "以光圖案化 PEGDA 結構取代模具，光電流體微粒篩選晶片可在數分鐘內完成原型。"
+    },
+    {
+      "id": "ol-2010",
+      "year": 2010,
+      "title": "Dynamic manipulation and patterning of microparticles and cells by using TiOPc-based optoelectronic dielectrophoresis",
+      "authors": ["Shih-Mo Yang", "Tung-Ming Yu", "Hang-Ping Huang", "Meng-Yen Ku", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 2,
+      "venue": "Optics Letters",
+      "cite": "35(12), 1959",
+      "doi": "10.1364/ol.35.001959",
+      "citations": 95,
+      "summary_en": "An organic TiOPc photoconductor makes low-cost optoelectronic tweezers that pattern cells and particles with projected light.",
+      "summary_zh": "以有機 TiOPc 光導材料實現低成本光電鑷夾，用投影光排列細胞與微粒。",
+      "related_patents": ["bioparticle-positioning", "dep-separator"]
+    }
+  ],
+  "conference": [
+    {
+      "id": "mems-2013",
+      "year": 2013,
+      "title": "The integration of TiOPc-based optoelectronic tweezers and optoelectrowetting with frequency modulation",
+      "authors": ["Weng-Chio Ho", "Tung-Ming Yu", "Ming-Huei Liu", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 2,
+      "venue": "IEEE MEMS 2013",
+      "cite": "Taipei, Taiwan",
+      "doi": "10.1109/memsys.2013.6474299",
+      "summary_en": "One chip switches between particle tweezing and droplet actuation by changing the drive frequency.",
+      "summary_zh": "同一晶片透過切換驅動頻率，在微粒鑷取與液滴驅動間轉換。"
+    },
+    {
+      "id": "microtas-2011",
+      "year": 2011,
+      "title": "Characterization of HepG2 cells behavior in critical frequency domain on TiOPc-based optoelectronic chip",
+      "authors": ["Shih-Mo Yang", "Chun-Ying Lin", "Shilpa Sivashankar", "Srinivasu Valagerahally Puttaswamy", "Shih-Yang Wei", "Tung-Ming Yu", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 6,
+      "venue": "MicroTAS 2011",
+      "cite": "15th Int. Conf. on Miniaturized Systems for Chemistry and Life Sciences, Seattle",
+      "summary_en": "Maps how HepG2 liver cells respond to optoelectronic dielectrophoresis across the critical frequency band on a TiOPc chip.",
+      "summary_zh": "量測 HepG2 肝細胞在 TiOPc 晶片上、臨界頻率區間內對光電介電泳的反應。"
+    },
+    {
+      "id": "transducers-2011",
+      "year": 2011,
+      "title": "Integration of organic photo-electrowetting and poly(ethylene) glycol diacrylate (PEGDA) microfluidics for droplet manipulation",
+      "authors": ["Tung-Ming Yu", "Shih-Mo Yang", "Chien-Yu Fu", "Ming-Huei Liu", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 1,
+      "venue": "Transducers 2011",
+      "cite": "Beijing, China, pp. 2307–2310",
+      "doi": "10.1109/transducers.2011.5969540",
+      "summary_en": "Conference version of the Sensors & Actuators B work on light-driven droplet handling in PEGDA channels.",
+      "summary_zh": "Sensors & Actuators B 論文的研討會版本：PEGDA 流道內的光驅動液滴操控。",
+      "related_patents": ["microfluidic-chip"]
+    },
+    {
+      "id": "mems-2010",
+      "year": 2010,
+      "title": "Organic photoconductive dielectrophoresis by using titanium oxide phthalocyanine for micro-particles manipulation",
+      "authors": ["Tung-Ming Yu", "Shih-Mo Yang", "Hang-Ping Huang", "Meng-Yen Ku", "Sheng-Yang Tseng", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 1,
+      "venue": "IEEE MEMS 2010",
+      "cite": "Hong Kong, pp. 24–28",
+      "doi": "10.1109/memsys.2010.5442407",
+      "summary_en": "First demonstration of TiOPc as the photoconductive layer for optoelectronic dielectrophoresis.",
+      "summary_zh": "首次以 TiOPc 作為光電介電泳的光導層。",
+      "related_patents": ["bioparticle-positioning", "dep-separator"]
+    },
+    {
+      "id": "spie-2010",
+      "year": 2010,
+      "title": "A novel optoelectrofluidic system for cells/particles manipulation and sorting",
+      "authors": ["Shih-Mo Yang", "Tung-Ming Yu", "Hang-Ping Huang", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 2,
+      "venue": "SPIE Optical Trapping and Optical Micromanipulation VII",
+      "cite": "Proc. SPIE 7762, 350–355, San Diego",
+      "doi": "10.1117/12.860599",
+      "summary_en": "Optoelectrofluidic platform that sorts cells and particles with light patterns instead of fixed electrodes.",
+      "summary_zh": "以光圖案取代固定電極來分選細胞與微粒的光電流體平台。"
+    },
+    {
+      "id": "microtas-2010-pump",
+      "year": 2010,
+      "title": "An adaptive bi-directional micro-pump by using light-induced electroosmosis",
+      "authors": ["Shih-Mo Yang", "Ruei-Jhih Chen", "Tung-Ming Yu", "Hang-Ping Huang", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 3,
+      "venue": "MicroTAS 2010",
+      "cite": "14th Int. Conf. on Miniaturized Systems for Chemistry and Life Sciences, Groningen",
+      "summary_en": "Light-induced electro-osmosis drives a micro-pump whose direction and rate follow the projected pattern.",
+      "summary_zh": "以光誘導電滲流驅動微幫浦，流向與流量隨投影圖案調整。"
+    },
+    {
+      "id": "microtas-2010-bubble",
+      "year": 2010,
+      "title": "Dynamic pico-liter bubble manipulation via TiOPc-based light-induced dielectrophoresis",
+      "authors": ["Shih-Mo Yang", "Tung-Ming Yu", "Hang-Ping Huang", "Hung-Po Chen", "Long Hsu", "Cheng-Hsien Liu"],
+      "me": 2,
+      "venue": "MicroTAS 2010",
+      "cite": "14th Int. Conf. on Miniaturized Systems for Chemistry and Life Sciences, Groningen",
+      "summary_en": "Early conference report of the picolitre-bubble work later published in Applied Physics Letters.",
+      "summary_zh": "皮升級氣泡操控的研討會初版，後續擴充發表於 Applied Physics Letters。"
+    }
+  ]
+}

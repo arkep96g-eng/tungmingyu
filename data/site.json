@@ -1,0 +1,49 @@
+{
+  "theme": "bold",
+  "name_en": "Tung-Ming Yu",
+  "name_zh": "余東銘",
+  "tagline_en": "Inventor · Medical devices · Microfluidics",
+  "tagline_zh": "發明人 · 醫療器材 · 微流體",
+  "intro_en": "Sixteen patent families and twelve peer-reviewed papers across sleep-apnea therapy, negative-pressure wound care and optoelectronic microfluidics — from research engineering at ITRI to product and operations leadership at a medical-device company.",
+  "intro_zh": "橫跨睡眠呼吸中止治療、負壓創傷照護與光電微流體的 16 個專利家族與 12 篇論文——從工研院研發工程師到醫療器材公司產品與營運主管。",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/tungmingyu",
+    "scholar": "https://scholar.google.com/citations?user=Y4uDDDAAAAAJ",
+    "orcid": "https://orcid.org/0009-0000-7550-7226"
+  },
+  "timeline": [
+    {
+      "id": "itri",
+      "years": "2003 – 2010",
+      "org_en": "Industrial Technology Research Institute (ITRI)",
+      "org_zh": "工業技術研究院",
+      "role_en": "Research engineer — biomedical microsystems and wound-care devices",
+      "role_zh": "研發工程師——生醫微系統與創傷照護器材",
+      "page": "itri.html",
+      "cta_en": "10 patent families",
+      "cta_zh": "10 個專利家族"
+    },
+    {
+      "id": "nycu",
+      "years": "2007 – 2013",
+      "org_en": "National Yang Ming Chiao Tung University — Ph.D.",
+      "org_zh": "國立陽明交通大學——博士",
+      "role_en": "Optoelectronic tweezers, optoelectrowetting and PEGDA microfluidics",
+      "role_zh": "光電鑷夾、光電濕潤與 PEGDA 微流道",
+      "page": "publications.html",
+      "cta_en": "12 publications",
+      "cta_zh": "12 篇論文"
+    },
+    {
+      "id": "somnics",
+      "years": "2011 – present",
+      "org_en": "Somnics, Inc.",
+      "org_zh": "萊鎂醫療器材股份有限公司",
+      "role_en": "Project management → product programs → Vice President, Operations",
+      "role_zh": "專案管理 → 產品專案 → 營運副總經理",
+      "page": "somnics.html",
+      "cta_en": "6 patent families (public record)",
+      "cta_zh": "6 個專利家族（公開紀錄）"
+    }
+  ]
+}

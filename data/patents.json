@@ -1,0 +1,278 @@
+{
+  "_note": "Only publicly available bibliographic data (publication number, title, dates, assignee, inventor role). Verified against Google Patents on 2026-09-17. Google Patents links are built from `pn`; set `link` to false for numbers Google Patents does not index.",
+  "itri": {
+    "assignee_en": "Industrial Technology Research Institute (ITRI)",
+    "assignee_zh": "財團法人工業技術研究院",
+    "families": [
+      {
+        "id": "oral-appliance",
+        "title_en": "Oral appliance with auto negative pressure control and method thereof",
+        "title_zh": "具自動負壓控制之口腔裝置與其方法",
+        "domain": "sleep",
+        "role": "co",
+        "filed": "2009",
+        "desc_en": "Oral appliance that automatically regulates intra-oral negative pressure for obstructive sleep-apnea therapy.",
+        "desc_zh": "自動調控口腔內負壓的口腔裝置，用於阻塞型睡眠呼吸中止治療。",
+        "pubs": [
+          {"pn": "US8616208B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2013-12-31"},
+          {"pn": "TWI448279B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2014-08-11"}
+        ]
+      },
+      {
+        "id": "force-meter",
+        "title_en": "Force measurement instrument (muscle-strength gauge)",
+        "title_zh": "肌力計",
+        "domain": "rehab",
+        "role": "co",
+        "filed": "2009",
+        "desc_en": "Handheld muscle-strength gauge for rehabilitation assessment; the invention patent and a companion design patent for the palm-sized housing.",
+        "desc_zh": "復健評估用手持式肌力計；含發明專利與掌上型外觀設計專利。",
+        "pubs": [
+          {"pn": "TWI375547B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2012-11-01"},
+          {"pn": "TWD138002", "cc": "TW", "kind_en": "Design", "kind_zh": "設計", "date": "2010-12-01", "link": false, "title_en": "Palm-sized muscle-strength gauge", "title_zh": "掌上型肌力計"}
+        ]
+      },
+      {
+        "id": "wound-guiding",
+        "title_en": "Wound treatment apparatus and guiding unit thereof",
+        "title_zh": "創傷處理裝置及其導液單元",
+        "domain": "wound",
+        "role": "sole",
+        "filed": "2008 – 2009",
+        "desc_en": "Negative-pressure wound therapy apparatus with a fluid-guiding unit that channels exudate away from the wound bed.",
+        "desc_zh": "負壓創傷治療裝置，以導液單元將滲出液自傷口床導出。",
+        "pubs": [
+          {"pn": "US8216196B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2012-07-10"},
+          {"pn": "TWI418374B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2013-12-11"},
+          {"pn": "CN101780304B", "cc": "CN", "kind_en": "Granted", "kind_zh": "核准", "date": "2012-08-08"}
+        ]
+      },
+      {
+        "id": "npwt-collector",
+        "title_en": "Negative pressure wound therapy system and fluid collecting device thereof",
+        "title_zh": "負壓創傷治療系統及流體收集裝置",
+        "domain": "wound",
+        "role": "sole",
+        "filed": "2009",
+        "desc_en": "Negative-pressure wound therapy system with a purpose-built fluid-collecting canister.",
+        "desc_zh": "負壓創傷治療系統及其專用流體收集裝置。",
+        "pubs": [
+          {"pn": "TWI360426B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2012-03-21"}
+        ]
+      },
+      {
+        "id": "phantom",
+        "title_en": "Phantom and its manufacturing method",
+        "title_zh": "一種仿體之製作方法及其結構",
+        "domain": "wound",
+        "role": "co",
+        "filed": "2008 – 2009",
+        "desc_en": "Tissue-mimicking wound phantom and its manufacturing method, used to bench-test wound-care devices.",
+        "desc_zh": "模擬組織的創傷仿體及其製作方法，用於創傷照護器材的檯面測試。",
+        "pubs": [
+          {"pn": "US8057236B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2011-11-15"},
+          {"pn": "GB2464777B", "cc": "GB", "kind_en": "Granted", "kind_zh": "核准", "date": "2011-03-16"},
+          {"pn": "DE102009014369A1", "cc": "DE", "kind_en": "Published", "kind_zh": "公開", "date": "2010-05-06"},
+          {"pn": "TW201016200A", "cc": "TW", "kind_en": "Published", "kind_zh": "公開", "date": "2010-05-01"}
+        ]
+      },
+      {
+        "id": "magnetic-bead",
+        "title_en": "Magnetic bead-based sample separating device",
+        "title_zh": "磁珠式檢體分離裝置",
+        "domain": "microfluidics",
+        "role": "sole",
+        "filed": "2006",
+        "desc_en": "Device that separates target biological samples using functionalised magnetic beads.",
+        "desc_zh": "以功能化磁珠分離目標生物檢體的裝置。",
+        "pubs": [
+          {"pn": "US7708881B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2010-05-04"},
+          {"pn": "TWI296713B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2008-05-11"},
+          {"pn": "CN101149376B", "cc": "CN", "kind_en": "Granted", "kind_zh": "核准", "date": "2012-07-25"}
+        ]
+      },
+      {
+        "id": "stepping-chip",
+        "title_en": "Stepping flow chip with multiple microchannels",
+        "title_zh": "步進式多管微流道周流晶片",
+        "domain": "microfluidics",
+        "role": "co",
+        "filed": "2006",
+        "desc_en": "Microfluidic chip that steps a sample through multiple parallel channels in sequence.",
+        "desc_zh": "使樣品依序步進流經多個並列微流道的晶片。",
+        "pubs": [
+          {"pn": "TWI314992B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2009-09-21"}
+        ]
+      },
+      {
+        "id": "dep-separator",
+        "title_en": "Multi-sample microfluidic dielectrophoresis separating device and method thereof",
+        "title_zh": "多樣品微流體介電泳分離裝置",
+        "domain": "microfluidics",
+        "role": "co",
+        "filed": "2005 – 2006",
+        "desc_en": "Dielectrophoretic separation of several samples in parallel on one microfluidic device.",
+        "desc_zh": "在單一微流體裝置上以介電泳平行分離多個樣品。",
+        "related_pubs": ["ol-2010", "mems-2010"],
+        "pubs": [
+          {"pn": "TWI304752B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2009-01-01"},
+          {"pn": "CN100457239C", "cc": "CN", "kind_en": "Granted", "kind_zh": "核准", "date": "2009-02-04"},
+          {"pn": "US20070131554A1", "cc": "US", "kind_en": "Published", "kind_zh": "公開", "date": "2007-06-14"}
+        ]
+      },
+      {
+        "id": "bioparticle-positioning",
+        "title_en": "Microelectronic positioning for bioparticles",
+        "title_zh": "生物微粒電性定位方法",
+        "domain": "microfluidics",
+        "role": "sole",
+        "filed": "2005",
+        "desc_en": "Method for positioning bioparticles with micro-electrode arrays.",
+        "desc_zh": "以微電極陣列定位生物微粒的方法。",
+        "related_pubs": ["ol-2010", "mems-2010"],
+        "pubs": [
+          {"pn": "US7682827B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2010-03-23"},
+          {"pn": "TWI292438B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2008-01-11"}
+        ]
+      },
+      {
+        "id": "microfluidic-chip",
+        "title_en": "Microfluidic chip",
+        "title_zh": "微流體電極晶片",
+        "domain": "microfluidics",
+        "role": "co",
+        "filed": "2005",
+        "desc_en": "Microfluidic chip with integrated electrodes.",
+        "desc_zh": "整合電極的微流體晶片。",
+        "related_pubs": ["snb-2013", "transducers-2011"],
+        "pubs": [
+          {"pn": "US7588727B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2009-09-15"},
+          {"pn": "TWI276601B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2007-03-21"}
+        ]
+      }
+    ]
+  },
+  "somnics": {
+    "assignee_en": "Somnics, Inc.",
+    "assignee_zh": "萊鎂醫療器材股份有限公司",
+    "families": [
+      {
+        "id": "nasal-dilator",
+        "title_en": "Nasal dilator with EPAP valve inserts and an assembly thereof as well as its application",
+        "title_zh": "具呼氣氣道正壓閥件之鼻擴張器與其組件以及其應用",
+        "domain": "sleep",
+        "role": "co",
+        "filed": "2022",
+        "pubs": [
+          {"pn": "TWI844076B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2024-06-01"}
+        ]
+      },
+      {
+        "id": "adjustable-oral-interface",
+        "title_en": "Adjustable oral interface for negative-pressure therapy system",
+        "title_zh": "負壓治療系統之可調整式口部介面",
+        "domain": "sleep",
+        "role": "co",
+        "filed": "2018",
+        "pubs": [
+          {"pn": "US11712363B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2023-08-01"},
+          {"pn": "EP3718518B1", "cc": "EP", "kind_en": "Granted", "kind_zh": "核准", "date": "2023-11-15", "validated": ["DE", "ES", "FR", "GB", "IT"]},
+          {"pn": "CN111971003B", "cc": "CN", "kind_en": "Granted", "kind_zh": "核准", "date": "2023-01-20"},
+          {"pn": "KR102503102B1", "cc": "KR", "kind_en": "Granted", "kind_zh": "核准", "date": "2023"},
+          {"pn": "AU2018371935B2", "cc": "AU", "kind_en": "Granted", "kind_zh": "核准", "date": "2021-11-11"},
+          {"pn": "TWI678199B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2019-12-01"}
+        ]
+      },
+      {
+        "id": "silencer",
+        "title_en": "Silencer structure for a negative-pressure sleep-apnea treatment apparatus",
+        "title_zh": "負壓式睡眠呼吸中止治療裝置的消音結構",
+        "domain": "sleep",
+        "role": "first",
+        "filed": "2017",
+        "pubs": [
+          {"pn": "CN208552192U", "cc": "CN", "kind_en": "Utility model", "kind_zh": "實用新型", "date": "2019-03-01"},
+          {"pn": "TWM557616U", "cc": "TW", "kind_en": "Utility model", "kind_zh": "新型", "date": "2018-04-01"}
+        ]
+      },
+      {
+        "id": "liquid-container",
+        "title_en": "Liquid container and absorbent insert for oral negative-pressure therapy system",
+        "title_zh": "口部負壓治療系統之儲液槽及其內含吸收材",
+        "domain": "sleep",
+        "role": "co",
+        "filed": "2015",
+        "pubs": [
+          {"pn": "US10166140B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2019-01-01"},
+          {"pn": "EP3313333B1", "cc": "EP", "kind_en": "Granted", "kind_zh": "核准", "date": "2022-04-13", "validated": ["DE", "ES", "FR", "GB", "IT"]},
+          {"pn": "JP6523481B2", "cc": "JP", "kind_en": "Granted", "kind_zh": "核准", "date": "2019-05-10"},
+          {"pn": "CN107847339B", "cc": "CN", "kind_en": "Granted", "kind_zh": "核准", "date": "2020-09-11"},
+          {"pn": "AU2015399751B2", "cc": "AU", "kind_en": "Granted", "kind_zh": "核准", "date": "2019-02-28"},
+          {"pn": "SG11201709832S", "cc": "SG", "kind_en": "Granted", "kind_zh": "核准", "date": "2019-12-03", "link": false},
+          {"pn": "IL256188B", "cc": "IL", "kind_en": "Granted", "kind_zh": "核准", "date": "2020-02-01"},
+          {"pn": "MY182739A", "cc": "MY", "kind_en": "Granted", "kind_zh": "核准", "date": "2021-02-04"},
+          {"pn": "VN 1-0032593", "cc": "VN", "kind_en": "Granted", "kind_zh": "核准", "date": "2022-06-10", "link": false},
+          {"pn": "TWI566749B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2017-01-21"}
+        ]
+      },
+      {
+        "id": "negative-pressure-generator",
+        "title_en": "Negative pressure generating device and application thereof",
+        "title_zh": "負壓產生裝置及其應用",
+        "domain": "sleep",
+        "role": "co",
+        "filed": "2014",
+        "pubs": [
+          {"pn": "US10159595B2", "cc": "US", "kind_en": "Granted", "kind_zh": "核准", "date": "2018-12-25"},
+          {"pn": "EP3095421B1", "cc": "EP", "kind_en": "Granted", "kind_zh": "核准", "date": "2018-08-08", "validated": ["DE", "FR", "GB"]},
+          {"pn": "JP6346997B2", "cc": "JP", "kind_en": "Granted", "kind_zh": "核准", "date": "2018-06-01"},
+          {"pn": "CN106170272B", "cc": "CN", "kind_en": "Granted", "kind_zh": "核准", "date": "2018-06-12"},
+          {"pn": "TWI569827B", "cc": "TW", "kind_en": "Granted", "kind_zh": "核准", "date": "2017-02-11"}
+        ]
+      },
+      {
+        "id": "breath-quality",
+        "title_en": "Apparatus for improving breath quality during sleep and method thereof",
+        "title_zh": "Apparatus for improving breath quality during sleep and method thereof",
+        "domain": "sleep",
+        "role": "co",
+        "filed": "2015",
+        "pubs": [
+          {"pn": "WO2016165103A1", "cc": "WO", "kind_en": "PCT publication", "kind_zh": "PCT 公開", "date": "2016-10-20"},
+          {"pn": "SG11201708160QA", "cc": "SG", "kind_en": "Granted", "kind_zh": "核准", "date": "2022-03-31"},
+          {"pn": "IL255021B", "cc": "IL", "kind_en": "Granted", "kind_zh": "核准", "date": "2022-08-02"}
+        ]
+      }
+    ]
+  },
+  "domains": {
+    "sleep": {"en": "Sleep-apnea therapy", "zh": "睡眠呼吸中止治療"},
+    "wound": {"en": "Negative-pressure wound care", "zh": "負壓創傷照護"},
+    "microfluidics": {"en": "Microfluidics & bio-separation", "zh": "微流體與生物分離"},
+    "rehab": {"en": "Rehabilitation instruments", "zh": "復健量測儀器"}
+  },
+  "roles": {
+    "sole": {"en": "Sole inventor", "zh": "唯一發明人"},
+    "first": {"en": "First inventor", "zh": "第一發明人"},
+    "co": {"en": "Co-inventor", "zh": "共同發明人"}
+  },
+  "jurisdictions": {
+    "US": {"en": "United States", "zh": "美國"},
+    "EP": {"en": "Europe (EPO)", "zh": "歐洲"},
+    "TW": {"en": "Taiwan", "zh": "台灣"},
+    "CN": {"en": "China", "zh": "中國"},
+    "JP": {"en": "Japan", "zh": "日本"},
+    "KR": {"en": "Korea", "zh": "韓國"},
+    "AU": {"en": "Australia", "zh": "澳洲"},
+    "SG": {"en": "Singapore", "zh": "新加坡"},
+    "IL": {"en": "Israel", "zh": "以色列"},
+    "MY": {"en": "Malaysia", "zh": "馬來西亞"},
+    "VN": {"en": "Vietnam", "zh": "越南"},
+    "GB": {"en": "United Kingdom", "zh": "英國"},
+    "DE": {"en": "Germany", "zh": "德國"},
+    "FR": {"en": "France", "zh": "法國"},
+    "ES": {"en": "Spain", "zh": "西班牙"},
+    "IT": {"en": "Italy", "zh": "義大利"},
+    "WO": {"en": "PCT (WIPO)", "zh": "PCT"}
+  }
+}
