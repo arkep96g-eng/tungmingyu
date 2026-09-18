@@ -590,17 +590,27 @@ def render(fname, artifact):
     body = f'<div class="wrap">{header(fname)}<main>{fn()}</main>{footer(fname)}</div>'
     if artifact:
         return (f"<title>{esc(title)}</title>\n{FONTS}\n<style>{CSS}</style>\n{body}\n<script>{JS}</script>\n")
+    full_title = f"{title} — Inventor portfolio" if fname == "index.html" else f"{title} — {site['name_en']}"
+    base = site.get("base_url", "")
+    og_extra = ""
+    if base:
+        page_url = base if fname == "index.html" else base + fname
+        og_extra = (f'<link rel="canonical" href="{esc(page_url)}">\n<meta property="og:url" content="{esc(page_url)}">\n')
+        if (ROOT / "assets" / "og.png").exists():
+            og_extra += (f'<meta property="og:image" content="{esc(base)}assets/og.png">\n'
+                         '<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
+                         '<meta name="twitter:card" content="summary_large_image">\n')
     return f"""<!doctype html>
 <html lang="en" data-lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{esc(title)} — Tung-Ming Yu</title>
+<title>{esc(full_title)}</title>
 <meta name="description" content="{esc(desc)}">
-<meta property="og:title" content="{esc(title)} — Tung-Ming Yu">
+<meta property="og:title" content="{esc(full_title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="website">
-{FONTS}
+{og_extra}{FONTS}
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
